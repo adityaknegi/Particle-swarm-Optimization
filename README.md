@@ -14,4 +14,10 @@ and velocity vectors.
 
 Stop: giving gBest, optimal solution.
 
+                                           Initial state
 
+![alt text](https://github.com/adityaknegi/Particle-swarm-Optimization/blob/master/intial_value.png).
+
+                                            final state(3000 iteration)
+
+![alt text](https://github.com/adityaknegi/Particle-swarm-Optimization/blob/master/final_val.png)
